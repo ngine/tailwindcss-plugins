@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-yarn add @ngine/tailwindcss-plugins --dev
+yarn add @direction/tailwindcss-plugins --dev
 ```
 
 ## Usage
@@ -13,6 +13,6 @@ Simply register the available plugins in your `tailwindcss.config.js` file.
 
 ```js
 plugins: [
-  require('@ngine/tailwindcss-plugins/PLUGIN_NAME')
+  require('@direction/tailwindcss-plugins/PLUGIN_NAME')
 ]
 ```

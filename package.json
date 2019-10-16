@@ -1,6 +1,6 @@
 {
   "name": "@direction/tailwindcss-plugins",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Set of custom and modified tailwindcss plugins for @direction projects.",
   "author": "Matthew Gaunt <matthew@direction.studio>",
   "repository": {

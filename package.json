@@ -1,6 +1,6 @@
 {
   "name": "@ngine/tailwindcss-plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set of custom and modified tailwindcss plugins for @ngine projects.",
   "author": "Matthew Gaunt <matthew@ngine.gg>",
   "repository": {

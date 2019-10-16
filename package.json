@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Set of custom and modified tailwindcss plugins for @ngine projects.",
   "author": "Matthew Gaunt <matthew@ngine.gg>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ngine/tailwindcss-plugins.git"
+  },
   "main": "index.js",
   "license": "Apache-2.0",
   "peerDependencies": {
@@ -12,5 +16,8 @@
     "fs-extra": "^8.1.0",
     "lodash": "^4.17.11",
     "postcss": "^7.0.17"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }

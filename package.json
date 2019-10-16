@@ -1,8 +1,8 @@
 {
-  "name": "@ngine/tailwindcss-plugins",
+  "name": "@direction/tailwindcss-plugins",
   "version": "1.0.2",
-  "description": "Set of custom and modified tailwindcss plugins for @ngine projects.",
-  "author": "Matthew Gaunt <matthew@ngine.gg>",
+  "description": "Set of custom and modified tailwindcss plugins for @direction projects.",
+  "author": "Matthew Gaunt <matthew@direction.studio>",
   "repository": {
     "type": "git",
     "url": "git://github.com/ngine/tailwindcss-plugins.git"
@@ -16,8 +16,5 @@
     "fs-extra": "^8.1.0",
     "lodash": "^4.17.11",
     "postcss": "^7.0.17"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
